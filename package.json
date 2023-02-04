@@ -1,5 +1,5 @@
 {
-  "name": "goit-js-66",
+  "name": "wabpack-goit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GregorHorvatH/goit-js-66.git"
+    "url": "git+https://github.com/VladimirKovalenko1986/wabpack-goit.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GregorHorvatH/goit-js-66/issues"
+    "url": "https://github.com/VladimirKovalenko1986/wabpack-goit/issues"
   },
-  "homepage": "https://GregorHorvatH.github.io/goit-js-66",
+  "homepage": "https://VladimirKovalenko1986.github.io/wabpack-goit",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
